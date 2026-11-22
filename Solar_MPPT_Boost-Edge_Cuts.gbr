@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.6*%
+%TF.CreationDate,2026-09-14T17:22:30+05:30*%
+%TF.ProjectId,Solar_MPPT_Boost,536f6c61-725f-44d5-9050-545f426f6f73,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.6) date 2026-09-14 17:22:30*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X86500000Y-13500000D02*
+X166500000Y-13500000D01*
+X166500000Y-73500000D01*
+X86500000Y-73500000D01*
+X86500000Y-13500000D01*
+M02*
